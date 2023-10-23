@@ -17,7 +17,10 @@ Build an API for a social network web application where users can share their th
 
 ## Demo
 
-[![Watch the video](demo/Walkthrough.mp4)]
+
+
+https://github.com/audidi29/nossql-sn-challenge-18/assets/131299841/5c4b18e5-0085-4f0d-83a6-bd84bb377548
+
 
 
 ## Technologies Used
